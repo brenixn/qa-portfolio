@@ -1,4 +1,5 @@
 # QA Portfolio — Automação de Testes
+![QA Tests](https://github.com/brenixn/qa-portfolio/actions/workflows/tests.yml/badge.svg)
 
 Projeto de automação de testes desenvolvido com Java, Selenium e Rest Assured,
 cobrindo testes de API e testes de interface web.
