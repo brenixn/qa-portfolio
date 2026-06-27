@@ -35,9 +35,16 @@ Testes automatizados contra a API pública JSONPlaceholder:
 
 Testes automatizados de login no site The Internet (Herokuapp):
 
+### Login (LoginTest + BDD)
 - ✅ Login com credenciais válidas
-- ✅ Login com senha inválida — validação de mensagem de erro
-- ✅ Login com usuário inexistente — validação de mensagem de erro
+- ✅ Login com senha inválida
+- ✅ Login com usuário inexistente
+
+### Checkboxes (CheckboxTest)
+- ✅ Validar checkbox desmarcado por padrão
+- ✅ Validar checkbox marcado por padrão
+- ✅ Marcar checkbox e validar estado
+- ✅ Desmarcar checkbox e validar estado
 
 ## ▶️ Como executar
 
